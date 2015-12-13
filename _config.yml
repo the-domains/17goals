@@ -1,0 +1,28 @@
+name: 17goals
+favicon: null
+layout_spectrum: 0.92545
+typography_spectrum: 0.25944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#236ba1'
+    - '#fffffe'
+    - '#74a0c1'
+    - '#9fbcd4'
+    - '#cbdae6'
+  brandStrength: 0.625
+  lightness: 0.4311671575997025
+  saturation: 0.6875
+  rhythmicContrast: 0.745688148541376
+purpose: []
