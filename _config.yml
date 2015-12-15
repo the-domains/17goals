@@ -2,6 +2,7 @@ name: 17goals
 favicon: null
 layout_spectrum: 0.92545
 typography_spectrum: 0.25944
+title: "What's Your SDG Move?"
 cta:
   domain: null
   bucket: null
